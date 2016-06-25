@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[OnewithSaraJ]]></title>
         <description><![CDATA[OnewithSaraJ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/onewithsaraj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 25 Jun 2016 18:03:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 25 Jun 2016 18:30:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/onewithsaraj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3c1f74f-3ba2-42ee-badd-8e41ffa4a3a1.jpg">]]></description>
+            <link>https://thegrid.ai/onewithsaraj/0f370e0a-26d2-45aa-b3f3-fc1ce86fe0dc/index.html</link>
+            <guid isPermaLink="false">0f370e0a-26d2-45aa-b3f3-fc1ce86fe0dc</guid>
+            <pubDate>Sat, 25 Jun 2016 18:30:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/38058105-66d9-4f38-8149-02be11cae279.jpg">]]></description>
-            <link>undefinedhealing-is-a-journey-a-path-that-is-chosen-a-welcomed-prog/index.html</link>
+            <link>https://thegrid.ai/onewithsaraj/healing-is-a-journey-a-path-that-is-chosen-a-welcomed-prog/index.html</link>
             <guid isPermaLink="false">c9d81337-786c-4e5d-a611-da76e4ced91c</guid>
             <pubDate>Sat, 25 Jun 2016 18:03:33 GMT</pubDate>
         </item>
