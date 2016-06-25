@@ -1,6 +1,6 @@
 name: OnewithSaraJ
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.49687
 typography_spectrum: 0.54062
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#73616d'
     - '#d9ccc6'
   brandStrength: 1
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
