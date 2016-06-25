@@ -1,0 +1,28 @@
+name: OnewithSaraJ
+favicon: null
+layout_spectrum: 0.7047306431923062
+typography_spectrum: 0.38481429289095104
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.34345570649020374
+  lightness: 0.4160564932972193
+  saturation: 0.4064350661356002
+  rhythmicContrast: 0.1033582619857043
+purpose: []
