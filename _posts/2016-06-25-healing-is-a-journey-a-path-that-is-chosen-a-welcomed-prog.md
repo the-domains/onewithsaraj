@@ -10,19 +10,15 @@ description: >-
   designed specifically for you, it may not have been clear, but, perfection got
   you here. And I am honored by the opportunity to open this next chapter of
   your being, with you. 
-datePublished: '2016-08-30T22:55:43.744Z'
-dateModified: '2016-08-30T22:26:44.970Z'
+datePublished: '2016-08-30T23:09:40.962Z'
+dateModified: '2016-08-30T23:08:56.319Z'
 title: ''
 author: []
 sourcePath: >-
   _posts/2016-06-25-healing-is-a-journey-a-path-that-is-chosen-a-welcomed-prog.md
 via: {}
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: healing-is-a-journey-a-path-that-is-chosen-a-welcomed-prog/index.html
 _type: Article
