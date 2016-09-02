@@ -1,4 +1,3 @@
-layout_spectrum: 0.70619693165645
 typography_spectrum: 0.9061653281096369
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.70619693165645
 analytics:
   google: null
   facebook: null
@@ -26,5 +26,5 @@ cta:
   version: null
 favicon: null
 title: We Resonate
-description: At One
+description: ''
 purpose: []
